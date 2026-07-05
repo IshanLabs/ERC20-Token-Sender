@@ -34,19 +34,6 @@ A modern Web3 decentralized application (dApp) built with **Next.js**, **React**
 
 ---
 
-## Screenshots
-
-> Add screenshots here after deployment.
-
-Example:
-
-```
-/screenshots/home.png
-/screenshots/send-token.png
-```
-
----
-
 ## Getting Started
 
 ### Clone the repository
@@ -142,17 +129,17 @@ This project was built to learn the fundamentals of Web3 development, including:
 
 **Ishan**
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/IshanLabs
 
-LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+LinkedIn: https://www.linkedin.com/in/ishan-jain-34b005321/
 
 ---
 
 ## Acknowledgements
 
-This project was designed and developed by **Ishan** as a personal learning project.
+This project was designed and developed by Ishan as a personal learning project.
 
-OpenAI's **ChatGPT** was used as a development assistant for explaining Web3 concepts, debugging issues, and reviewing implementation decisions. All code was integrated, tested, and adapted as part of the learning process.
+OpenAI's ChatGPT was used as a development assistant for explaining Web3 concepts, debugging issues, and reviewing implementation decisions. All code was integrated, tested, and adapted as part of the learning process.
 
 ---
 
